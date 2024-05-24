@@ -1,0 +1,9 @@
+C:\Users\Power\Desktop\machine learning\justTesting2.0\bin\Debug\justTesting2.0.exe.config
+C:\Users\Power\Desktop\machine learning\justTesting2.0\bin\Debug\justTesting2.0.exe
+C:\Users\Power\Desktop\machine learning\justTesting2.0\bin\Debug\justTesting2.0.pdb
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2.0.csprojResolveAssemblyReference.cache
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2._0.Form1.resources
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2._0.Properties.Resources.resources
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2.0.csproj.GenerateResource.Cache
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2.0.exe
+C:\Users\Power\Desktop\machine learning\justTesting2.0\obj\Debug\justTesting2.0.pdb

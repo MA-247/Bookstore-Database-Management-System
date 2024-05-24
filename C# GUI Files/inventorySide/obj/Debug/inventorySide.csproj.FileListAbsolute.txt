@@ -1,0 +1,9 @@
+C:\Users\Power\Desktop\machine learning\inventorySide\bin\Debug\inventorySide.exe.config
+C:\Users\Power\Desktop\machine learning\inventorySide\bin\Debug\inventorySide.exe
+C:\Users\Power\Desktop\machine learning\inventorySide\bin\Debug\inventorySide.pdb
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.csprojResolveAssemblyReference.cache
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.Form1.resources
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.Properties.Resources.resources
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.csproj.GenerateResource.Cache
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.exe
+C:\Users\Power\Desktop\machine learning\inventorySide\obj\Debug\inventorySide.pdb
